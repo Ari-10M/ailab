@@ -1,0 +1,3 @@
+ds-lab@ds-lab-System-Product-Name:~/Desktop/Ari-ai lab$ python3 ex03.py
+Query is entailed by the knowledge base.
+
