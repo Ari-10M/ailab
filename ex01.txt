@@ -1,4 +1,0 @@
-ds-lab@ds-lab-System-Product-Name:~/Desktop/Ari-ai lab$ python3 ex01.py
-enter the name that you wanna search:Eve
-foundEve:{'name': 'Eve', 'age': 45, 'city': 'phoenix'}
-
