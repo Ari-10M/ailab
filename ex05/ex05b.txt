@@ -1,1 +1,2 @@
-SATISFIABLE with assignments: [1, 2, -3]
+SATISFIABLE with assignments: []
+
