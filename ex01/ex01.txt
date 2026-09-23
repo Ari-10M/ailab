@@ -1,2 +1,3 @@
-Enter the name that you wanna search: Eve
-Found Eve: {'name': 'Eve', 'age': 45, 'city': 'Phoenix'}
+enter the name that you wanna search:Eve
+foundEve:{'name': 'Eve', 'age': 45, 'city': 'phoenix'}
+
