@@ -1,0 +1,4 @@
+OUTPUT:
+Model Accuracy: 100.00%
+Email: 'Free money waiting for you, click now' --> SPAM
+Email: 'Let's catch up over coffee this week' --> NOT SPAM
